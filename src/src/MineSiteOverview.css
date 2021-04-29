@@ -1,0 +1,20 @@
+#mine-site-overview {
+    text-align: left;
+}
+
+.ore-item {
+    text-align: left;
+    list-style-type: none;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.ore-name {
+
+}
+
+.ore-quantity {
+
+}

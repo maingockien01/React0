@@ -1,0 +1,40 @@
+#mine-site-input {
+    text-align: center;
+}
+
+#mine-site-form {
+    width: 50%;
+    text-align: center;
+    margin-left: 20%;
+}
+
+#mine-input-submit {
+    margin-top: 20px;
+}
+
+.ore-input {
+    display: inline-block;
+    text-align: left;
+    color: red;
+    width: 100%;
+    margin-top: 10px;
+    overflow: auto;
+    vertical-align: middle;
+}
+
+
+.ore-label {
+    display: block;
+    float: left;
+    width: 20%;
+    line-height: 28px;
+    margin-top: 10px;
+}
+
+.ore-text-input {
+    display: block;
+    float: left;
+    width: 75%;
+    margin-top: 5px;
+}
+
